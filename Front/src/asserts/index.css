@@ -1,0 +1,32 @@
+
+* {
+  margin: 0;
+  padding: 0;
+}
+.caixa{
+    display: flex;
+    width: 100vw;
+    height: 100vh;
+    background: #8257E5;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+.box{
+    height: 300px;
+    background: #8257E5;
+}
+p, h1, span{
+    color: white;
+}
+ul a{
+    color:white;
+}
+.btn-margin{
+    margin-right: 15px;
+}
+.img{
+    position: relative;
+    left: 100px;
+}
+
